@@ -1,0 +1,4 @@
+com\gene\adt\error\MyAccessDeniedHandler.class
+com\gene\adt\controller\DefaultController.class
+com\gene\adt\SpringBootWebApplication.class
+com\gene\adt\config\SpringSecurityConfig.class
